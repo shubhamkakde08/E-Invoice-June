@@ -1,6 +1,11 @@
 # E-Invoice-June
 # ERP E-Invoice & Accounting Transactions View – Oracle SQL
 
+ERP-EInvoice-View/
+├── VIEW_ACC_TRAN.sql               # Oracle SQL View for accounting/e-invoice transactions
+└── README.md                       # Documentation
+
+
 ## 🧾 Overview
 
 This project provides a consolidated **Oracle SQL View** named `VIEW_ACC_TRAN`, developed to analyze and monitor accounting transactions, e-invoice data, and tax-related entries in an ERP system. It integrates account master metadata, transaction narration, TDS, GST, allocation tracking, and approval workflows.
